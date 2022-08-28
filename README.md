@@ -1,2 +1,2 @@
 # Programação Design Web - Unilicungo 2022
-* HTML - CSS - Javascript
+* HTML - CSS - JAVASCRIPT & PHP
